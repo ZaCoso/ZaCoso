@@ -39,7 +39,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaCoso&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=carlassaraf" alt="https://github.com/ZaCoso"/>
+        <img src="https://komarev.com/ghpvc/?username=ZaCoso" alt="https://github.com/ZaCoso"/>
         <a><img src="https://img.shields.io/github/followers/ZaCoso?label=Follow&style=social"></a>
 </div>
 
