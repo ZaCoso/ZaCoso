@@ -25,14 +25,18 @@
 </div>
 
 <h2 align="center">⚙️ Embedded ⚙️</h2>
+<div align="center">    
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+</div>
 
+<div align="center">    
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZaCoso&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZaCoso&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaCoso&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 
 
