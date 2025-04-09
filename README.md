@@ -1,6 +1,6 @@
-<div aling="center">
-<img  src="https://static.wixstatic.com/media/ece9ad_22177441ef094a0a8dd4a5309195de7e~mv2.png/v1/fill/w_476,h_150,al_c,lg_1,enc_auto/Impa%20Logo.png">
-</div>
+<p align="center">
+<img src="https://static.wixstatic.com/media/ece9ad_22177441ef094a0a8dd4a5309195de7e~mv2.png/v1/fill/w_476,h_150,al_c,lg_1,enc_auto/Impa%20Logo.png">
+</p>
 <h1>About me:</h1>
 Colaborador del projecto: AQUILES 
 <h2 align="center">💻 Languages and Frameworks 💻</h2>
